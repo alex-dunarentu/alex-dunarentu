@@ -10,7 +10,9 @@ Graduated from University POLITEHNICA of Bucharest with a degree in Computer Sci
 *   ✉️  You can contact me at [alexdunarentu@gmail.com](mailto:alexdunarentu@gmail.com)
 *   🧠  I'm learning and staying up-to-date with the latest developments in the field
 *   🤝  I'm open to collaborating on solving complex problems and finding creative solutions
-*   ⚡  I am looking forward to connecting with like-minded professionals### Skills 
+*   ⚡  I am looking forward to connecting with like-minded professionals
+
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
