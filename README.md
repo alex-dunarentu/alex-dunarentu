@@ -6,13 +6,15 @@ Front-end Developer
 
 Graduated from University POLITEHNICA of Bucharest with a degree in Computer Science. Experienced front-end developer with a passion for modern web technologies, particularly LitElement and React. Skilled in building performant and scalable web applications.
 
-*   🌍  I'm based in Bucharest
-*   ✉️  You can contact me at [alexdunarentu@gmail.com](mailto:alexdunarentu@gmail.com)
-*   🧠  I'm learning and staying up-to-date with the latest developments in the field
-*   🤝  I'm open to collaborating on solving complex problems and finding creative solutions
-*   ⚡  I am looking forward to connecting with like-minded professionals
+* 🌍  I'm based in Bucharest
+* ✉️  You can contact me at [alexdunarentu@gmail.com](mailto:alexdunarentu@gmail.com)
+* 🧠  I'm learning and staying up-to-date with the latest developments in the field
+* 🤝  I'm open to collaborating on solving complex problems and finding creative solutions
+* ⚡  I am looking forward to connecting with like-minded professionals
 
-### Skills 
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,17 +34,11 @@ Graduated from University POLITEHNICA of Bucharest with a degree in Computer Sci
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/dună#1278" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/alex-dunarentu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/alexandru-nicolae-dunarentu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/dună#1278" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/alex-dunarentu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexandru-nicolae-dunarentu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <!--
 **alex-dunarentu/alex-dunarentu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
